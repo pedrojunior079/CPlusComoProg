@@ -24,10 +24,10 @@ int main()
     mult = numero1 * numero2; // adiciona os numeros; armazema o resultado em multiplicação
     div = numero1 / numero2; // adicona os numeros; armazena o resultado em divisão
     
-    std::cout << "Soma foi " << soma << std::endl; // exibe soma; termina a linha
-    std::cout << "Subtracao foi " << sub << std::endl; // exibe subtração; termina a linha
-    std::cout << "Multiplicacao foi " << mult << std::endl; // exibe multiplicação; termina a linha
-    std::cout << "Divisao foi " << div << std::endl; // exibe divisão; termina a linha
+    std::cout << "Soma foi: " << soma << std::endl; // exibe soma; termina a linha
+    std::cout << "Subtracao foi: " << sub << std::endl; // exibe subtração; termina a linha
+    std::cout << "Multiplicacao foi: " << mult << std::endl; // exibe multiplicação; termina a linha
+    std::cout << "Divisao foi: " << div << std::endl; // exibe divisão; termina a linha
     
     return 0; // indica que o programa terminou com sucesso
 } // fim da função main
