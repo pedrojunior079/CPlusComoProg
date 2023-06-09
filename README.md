@@ -1,5 +1,5 @@
 # C++ComoProgramar
-<p>Livro C++ Como Programar da editora Pearson Education do Brasil livro da 5a edição fisica no qual eu possuo.</p>
+<p>Livro C++ Como Programar da editora Pearson Education do Brasil livro da 5a edição, livro fisico no qual eu possuo.</p>
 <p>Obs: Estou traduzindo para o portugues todos os exemplos que estão em ingles, exceto alguns que vão ficar no ingles mesmo.</p>
 <p>Só algumas palavras que to traduzindo para o portugues nos exemplos em ingles.</p>
 <p>Usando a IDE Visual Studio Code juntamente com git.</p>
